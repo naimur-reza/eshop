@@ -10,3 +10,47 @@
     color: rgb(255, 5, 209);
 }
 
+.cat1{
+background-color: rgb(255, 229, 32);
+}
+.cat2{
+background-color: rgb(246, 64, 95);
+}
+.cat3{
+background-color: rgb(61, 74, 219);
+}
+
+
+.cat1 , .cat2, .cat3{
+    border-radius: 10px;
+    padding: 20px;
+  
+    color: rgb(255, 255, 255);
+    margin-top: 100px;
+}
+#item1 ,#item2, #item3{
+ width: 90px;
+}
+
+.Bagpack{
+    margin-top: 80px;
+}
+.shoes{
+    margin-top: 80px;
+}
+.subs{
+    margin-top: 80px;
+    background-color: #161515;
+   
+    text-align: center;
+    border-radius: 10px;
+
+}
+.thansks{
+    margin-top: 30px;
+}
+
+.name{
+    padding: 6px;
+    
+}
