@@ -1,4 +1,12 @@
 .orange-bg{
     background-color: #fceae8;
+    border-radius: 10px;
+
   
 }
+.main{margin-bottom: 100px;}
+
+.price {
+    color: rgb(255, 5, 209);
+}
+
